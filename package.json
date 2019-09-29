@@ -1,0 +1,25 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "IMSEC Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepsingh11421/college_portal.git"
+  },
+  "author": "Deep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepsingh11421/college_portal/issues"
+  },
+  "homepage": "https://github.com/deepsingh11421/college_portal#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
